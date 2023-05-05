@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @InterstellarOne
-- 👀 I’m interested in Minecraft server hosting, tech support and engineering, mostly.
+- 👀 I’m interested in Minecraft, music syncing, tech support, linux, and engineering, mostly.
 
 <!---
 InterstellarOne/InterstellarOne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
