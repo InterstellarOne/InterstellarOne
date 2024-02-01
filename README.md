@@ -1,4 +1,4 @@
-[<img src=https://api.bento.me/v1/og/interstellar-1>](https://bento.me/interstellar-1)
+[<img src=https://api.bento.me/v1/og/interstellar1>](https://bento.me/interstellar1)
 - 👋 Hi, I’m @InterstellarOne
 - 👀 I’m interested in creating datapacks, mods, and maps for Minecraft, Line Rider, and Lego Robotics.
 
