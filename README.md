@@ -9,7 +9,7 @@
 InterstellarOne/InterstellarOne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-The company hosting my portfolio website went under (bleh) so here's my links while I try to build one for myself:
+The startup hosting my portfolio website went under (bleh) so here's my links while I try to build one for myself:
 
 ![Static Badge](https://img.shields.io/badge/Interstellar__1-red?style=for-the-badge&logo=youtube&link=https%3A%2F%2Fwww.youtube.com%2F%40interstellar_1)
 ![Static Badge](https://img.shields.io/badge/Installer__1-red?style=for-the-badge&logo=youtube&link=https%3A%2F%2Fwww.youtube.com%2F%40interstaller_1)
