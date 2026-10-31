@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @InterstellarOne
 - 👀 I love creating things with whatever creative outlets I find interesting, often through programming, physical or mechanical designs, or Minecraft.
-- #️⃣ Languages I have used: C, C#, HTML, CSS, JavaScript, TypeScript
+- #️⃣ Languages / Frameworks I have used: C, C#, HTML, CSS, JavaScript, Astro
 
 ### Currently working on:
 https://startpage.gallery
