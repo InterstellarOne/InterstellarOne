@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @InterstellarOne
-- 👀 I love creating things with whatever creative outlets I find interesting.
+- 👀 I love creating things with whatever creative outlets I find interesting, often through programming, physical or mechanical designs, or Minecraft.
 - #️⃣ Languages I have used: C, C#, HTML, CSS, JavaScript, TypeScript
 
 ### Currently working on:
